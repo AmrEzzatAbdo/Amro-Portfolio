@@ -17,7 +17,7 @@ This portfolio site serves as a central hub to present my personal brand, techni
 - **Styling:** Tailwind CSS  
 - **Deployment:** Vercel  
 - **Animation & UI Enhancements:** Framer Motion, React Icons  
-- **Other Tools:** TypeScript (optional if used), ESLint, Prettier
+- **Other Tools:** TypeScript.
 
 ## 🧑‍💻 Contributing
 
